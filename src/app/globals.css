@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.cnames {
+    border: 1px solid #d62323;
+    padding: 16px;
+    margin: 8px;
+    margin-left: 20px;
+    border-radius: 8px;
+    background-color: #609760;
+  }
+  
+  .cnames {
+    display: flex;
+    margin: 20px;
+    gap: 10px 20px; 
+    row-gap: 10px;
+    column-gap: 10px; 
+    margin-left: 20px;
+    flex-wrap: wrap;
+  }

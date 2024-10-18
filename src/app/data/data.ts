@@ -1,4 +1,4 @@
-import country_name from "../components/CountryName"
+
 const countries:{
     name:string,
     capital:string,

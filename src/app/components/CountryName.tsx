@@ -1,4 +1,3 @@
-import React from 'react';
 // import "./styles.css"
 
 const CountryNames= ({name,population,capital}:{name:string,population:number,capital:string}) => {

@@ -1,4 +1,3 @@
-import React from "react"
 import country_name from "../components/CountryName"
 const countries:{
     name:string,
